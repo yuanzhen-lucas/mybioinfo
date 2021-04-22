@@ -12,4 +12,4 @@ I like it
 #       modified:   readme.txt
 #
 Git tracks changes of files.
-
+Creating a new branch is quick.
