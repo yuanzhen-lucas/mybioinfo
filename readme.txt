@@ -5,3 +5,9 @@ I did it!
 I think it is important to learn git!
 Come on!
 I like it
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#       modified:   readme.txt
+#
