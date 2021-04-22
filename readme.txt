@@ -11,3 +11,5 @@ I like it
 #
 #       modified:   readme.txt
 #
+Git tracks changes of files.
+
