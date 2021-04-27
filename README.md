@@ -9,11 +9,11 @@
 [git中文文档](https://git-scm.com/book/zh/v2)
 ```bash
 $git checkout main 
-	Switched to branch 'main'
-	Your branch is up to date with 'origin/main'.
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
 $git checkout master
-	Switched to a new branch 'master'
-	Branch 'master' set up to track remote branch 'master' from 'origin'.
+Switched to a new branch 'master'
+Branch 'master' set up to track remote branch 'master' from 'origin'.
 ```
 
 
