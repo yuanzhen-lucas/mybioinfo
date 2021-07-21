@@ -26,3 +26,5 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 
 
 
+** 如果你也对生信知识感兴趣或者也愿意分享自己所学到的一些知识，你可以联系**  袁振 ，每一个专门的文件夹下面是一些学习到的笔记。特别是debug文件夹，大家在数据分析或者学习语言遇到问题，可以上传问题及解决方法。
+
