@@ -2,10 +2,12 @@
 title: "Let's work together"
 author: "Yuan Zhen"
 date: "2021/4/24"
-output: 
-  html_document: 
+output:
+  pdf_document:
     toc: yes
-    number_sections: false
+  html_document:
+    toc: yes
+    number_sections: no
 ---
 # 1. 历史背景
 
