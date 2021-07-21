@@ -9,31 +9,9 @@ output:
 ---
 # 1. 历史背景
 
-## I like sysbio
-### wo xihuan1
-
-### woeleodfkjdsfjsd
-jhjhjhjhjh
-
-
->   dfhdlfhldfhs,
->  sdhgjhfdsgfh
-
-**_hfjksdhfskdj_**
-
-*hajga*
--\-\-\-\-\-\-\-\-\-\-\-
-_\_bdnxzmvcz_\_
-
-
-<u>__________ghdfhfh_</u>
-
 在Git(分布式版本控制系统)面世之前，Linux内核是一直使用的是BitKeeper，但是在这个过程中.有的人太厉害了，就想利用自己的知识来破解这个BitKeeper的协议。但是呢，授权给Linux社区用BitKeeper的公司就不干了，本来就免费给你们使用，怎么能够这样呢，就收回了免费试用权。Linux的大BOSS觉得问题不大，就自己花了两周时间使用C创造一个非常原始的分布式版本控制系统，这也太厉害了吧！
 
 而[github](https://github.com/)是当今世界上最大的代码托管平台，它作为一个开源的项目免费提供Git存储。我 们一 起来了解一下吧。
-
->   hdsjkahjh
->   
 
 # 2. Git初学
 ### 2.1 分布式版本控制系统？
