@@ -2,7 +2,7 @@
 
 # 我们来自福建农林大学不同部门（海峡联合研究院，大数据中心，华祥苑和生科院）希望能够通过我们的学习生物信息的知识让更多人学到更多有用的东西
 
-**组织者**：袁振
+**组织者**：[袁振](https://github.com/yuanzhen-lucas)
 
 **成员**：[江蛟](https://github.com/Jiangjao)  [徐时长](https://github.com/xsc-hub) 邱福祥 杨紫威
 
