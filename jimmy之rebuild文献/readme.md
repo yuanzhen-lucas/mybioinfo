@@ -1,4 +1,19 @@
-# 相关链接
+# 文献解读
+<!-- by xiaojiao -->
+
+研究对象：***Methylation*** patterns of ***circulating cell-free DNA*** (cfDNA)
+
+研究方法：
+1.  the ***`Illumina Infinium methylation array`***, which allows thesimultaneous analysis of the methylation status of >450,000 CpG sites throughout the human genome.
+
+
+数据来源:
+1. The Cancer Genome Atlas (TCGA)
+2.  Gene Expression Omnibus (GEO)
+
+#### 相关链接
 > https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247501254&idx=1&sn=bfd80a73dc1e4c90e4a57a4a62575a72&chksm=9b4b857dac3c0c6b163e572e84f30afcce1e859d50c5147a91749138f750d391001ed524bccd&mpshare=1&scene=1&srcid=0501BhXyU7rOyLbT5wSEgNJm&sharer_sharetime=1619858748717&sharer_shareid=37cf2248a89b28e3f058624640def046&exportkey=Ayxm92J25K1pjrZKsOkxlN8%3D&pass_ticket=V7GcjjmwgctrNyVxOc2gwBjgic6eLfEIbHVNOHaUvTZHxvtV%2FPR0T5USEEhGYPib&wx_header=0#rd
 
->https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247497344&idx=1&sn=1f001547389e3688643f1c0f19bd1387&chksm=9b4bb63bac3c3f2da41ad2f6fc20fe2cf57af19adfe0d7fab80f8f9d0fa66227605374a66c7b&mpshare=1&scene=1&srcid=0501T47DM4qZnHA0APddtW2s&sharer_sharetime=1619858761848&sharer_shareid=37cf2248a89b28e3f058624640def046&exportkey=A4F4D5nSH81Yc7%2BN%2BZ%2Bb9R0%3D&pass_ticket=V7GcjjmwgctrNyVxOc2gwBjgic6eLfEIbHVNOHaUvTZHxvtV%2FPR0T5USEEhGYPib&wx_header=0#rd
+>[跟着Nature Medicine学MeDIP-seq数据分析](https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247497344&idx=1&sn=1f001547389e3688643f1c0f19bd1387&chksm=9b4bb63bac3c3f2da41ad2f6fc20fe2cf57af19adfe0d7fab80f8f9d0fa66227605374a66c7b&mpshare=1&scene=1&srcid=0501T47DM4qZnHA0APddtW2s&sharer_sharetime=1619858761848&sharer_shareid=37cf2248a89b28e3f058624640def046&exportkey=A4F4D5nSH81Yc7%2BN%2BZ%2Bb9R0%3D&pass_ticket=V7GcjjmwgctrNyVxOc2gwBjgic6eLfEIbHVNOHaUvTZHxvtV%2FPR0T5USEEhGYPib&wx_header=0#rd)
+
+>[Code availability](https://github.com/nloyfer/meth_atlas)
