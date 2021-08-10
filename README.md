@@ -4,7 +4,7 @@
 
 **组织者**：[袁振](https://github.com/yuanzhen-lucas)
 
-**成员**：[江蛟](https://github.com/Jiangjao)  [徐时长](https://github.com/xsc-hub) [徐良伟](https://github.com/liangwx332) 邱福祥 杨紫威
+**成员**：[江小蛟](https://github.com/Jiangjao)  [徐时长](https://github.com/xsc-hub) [徐良伟](https://github.com/liangwx332) 邱福祥 杨紫威
 
 
 如果你刚学习，或者看到，想了解更多，可以先学习以下两个
