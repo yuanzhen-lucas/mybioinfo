@@ -922,9 +922,16 @@ R中数据的最基本的类型包括logical, integer, double, character, comple
 
 a
 
+## 下载安装包
 
+下载安装包时,找不到包,这时.
+如:使用终端
 
+在使用终端命令行安装包的时候，可以直接指定源，命令如下：
+repos是指定下载源
+install.packages(‘gdata’, repos = ‘https://mirrors.tuna.tsinghua.edu.cn/CRAN’)
 
+一般配置文件也可以解决
 
 
 
