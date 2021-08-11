@@ -13,7 +13,7 @@
 1. The Cancer Genome Atlas (TCGA)
 2.  Gene Expression Omnibus (GEO)
 
-选材,跟买菜差不多，买的好，又得的妙（精）：
+选材,跟买菜差不多，买的好，又得妙（精）：
 -   we only used primaryt issue sources, avoid culture pollution;
 -   used the methylomes of healthy human tissues, universally conserved;
 -   excluded tissue methylomes that contained a high proportion of blood-derived DNA;
@@ -34,6 +34,13 @@ in plasma to obtain the absolute concentrations of cfDNA originating from each 
 
 -  简单的独立变量，线性相加
 -   回归曲线，最小二乘法来确立各个变量的权重
+
+Tissue origins of healthy cfDNA：
+>As previously reported, we found that
+the main contributors to cfDNA were of hematopoietic origin.
+
+>这里有个算法的有效性是咋弄的？似乎统计学 + 芯片数据+ 预测数据来查看的。。。
+
 
 
 
