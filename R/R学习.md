@@ -929,11 +929,19 @@ a
 
 在使用终端命令行安装包的时候，可以直接指定源，命令如下：
 repos是指定下载源
-install.packages(‘gdata’, repos = ‘https://mirrors.tuna.tsinghua.edu.cn/CRAN’)
+install.packages('minfi', repos = ‘https://mirrors.tuna.tsinghua.edu.cn/CRAN’)
+
 
 一般配置文件也可以解决
 
+![avatar](./image/Rsearch01.png)
+包搜索的网站
 
+>[packages search 1](https://elizagrames.github.io/litsearchr/#tutorials)
+
+>[packages search 02](https://elizagrames.github.io/litsearchr/#tutorials)
+
+>[R 官网](https://www.rdocumentation.org/packages/)
 
 
 
