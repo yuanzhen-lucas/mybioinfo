@@ -41,6 +41,7 @@ the main contributors to cfDNA were of hematopoietic origin.
 
 >这里有个算法的有效性是咋弄的？似乎统计学 + 芯片数据+ 预测数据来查看的。。。
 
+最主要的是验证了这个算法，感觉，以后有时间再瞅瞅。
 
 
 
